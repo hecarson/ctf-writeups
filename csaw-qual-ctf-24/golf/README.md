@@ -88,8 +88,8 @@ void win(void)
 
 ## Exploitaton
 
-[!NOTE]
-We have full control over the string printed by `printf`. How can we exploit this?
+> [!NOTE]
+> We have full control over the string printed by `printf`. How can we exploit this?
 
-[!WARNING]
-Answer is below.
+> [!WARNING]
+> Answer is below.
